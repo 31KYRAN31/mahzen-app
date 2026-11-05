@@ -2,6 +2,7 @@
   "api_base": "http://localhost:3000",
   "sites": [
     "https://mahzen.io",
-    "https://www.mahzen.io"
+    "https://www.mahzen.io ",
+    "http://localhost:3000"
   ]
 }
