@@ -1,7 +1,7 @@
 {
-  "api_base": "https://kinase-vegetation-findlaw-gardens.trycloudflare.com",
+  "api_base": "https://matt-wedding-stop-hitachi.trycloudflare.com",
   "sites": [
     "http://localhost:3000",
-    "https://kinase-vegetation-findlaw-gardens.trycloudflare.com"
+    "https://matt-wedding-stop-hitachi.trycloudflare.com"
   ]
 }
