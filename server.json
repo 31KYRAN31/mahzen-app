@@ -1,7 +1,7 @@
 {
-  "api_base": "https://matt-wedding-stop-hitachi.trycloudflare.com",
+  "api_base": "https://detail-hiring-suffering-currency.trycloudflare.com",
   "sites": [
     "http://localhost:3000",
-    "https://matt-wedding-stop-hitachi.trycloudflare.com"
+    "https://detail-hiring-suffering-currency.trycloudflare.com"
   ]
 }
