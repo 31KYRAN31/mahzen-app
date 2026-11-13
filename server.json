@@ -1,5 +1,5 @@
 {
-  "api_base": "https://detail-hiring-suffering-currency.trycloudflare.com",
+  "api_base": "https://detail-hiring-suffering-currency.trycloudflare.com","api_base": "http://localhost:3000",
   "sites": [
     "http://localhost:3000",
     "https://detail-hiring-suffering-currency.trycloudflare.com"
