@@ -1,7 +1,7 @@
 {
-  "api_base": "https://mistress-reflection-demands-description.trycloudflare.com",
+  "api_base": "https://mahzen-test.duckdns.org",
   "sites": [
     "http://localhost:3000",
-    "https://detail-hiring-suffering-currency.trycloudflare.com"
+    "https://mahzen-test.duckdns.org/"
   ]
 }
