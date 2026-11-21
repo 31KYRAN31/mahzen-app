@@ -1,5 +1,5 @@
 {
-  "api_base": "https://mahzen-test.duckdns.org",
+  "api_base": "http://localhost:3000" ,"https://mahzen-test.duckdns.org",
   "sites": [
     "http://localhost:3000",
     "https://mahzen-test.duckdns.org/"
